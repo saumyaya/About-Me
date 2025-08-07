@@ -43,6 +43,3 @@ I enjoy working on end-to-end solutions—from ideation and prototyping to devel
 Feel free to reach out if you'd like to collaborate, chat tech, or just say hi 👋
 [📧 Email](mailto:saumya046btece22@igdtuw.ac.in) | [💼 LinkedIn](https://www.linkedin.com/in/saumya-mathur-60351a270/) | [💻 GitHub](https://github.com/saumyaya)
 
----
-
-Let me know if you want to add a `Pinned Projects` section or contribution stats at the end!
