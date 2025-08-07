@@ -1,6 +1,10 @@
+
+---
+
 ## 👩‍💻 About Me
 
-Hi there! I'm **Saumya Mathur**, a final-year B.Tech student in **Electronics and Communication Engineering** at IGDTUW 🎓. I'm passionate about using technology to build meaningful, real-world solutions—especially in the fields of Artificial Intelligence and Machine Learning.
+Hi there! I'm **Saumya Mathur**, a final-year B.Tech student in **Electronics and Communication Engineering** at IGDTUW 🎓. I'm passionate about using technology to build meaningful, real-world solutions—especially in the fields of **Artificial Intelligence** and **Machine Learning** .
+
 ---
 
 ## 💡 What I Love Working On
