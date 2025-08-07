@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me
 
-Hi there! I'm **Saumya Mathur**, a final-year B.Tech student in **Electronics and Communication Engineering** at IGDTUW 🎓. I'm passionate about using technology to build meaningful, real-world solutions—especially in the fields of **Artificial Intelligence** and **Machine Learning** .
+Hi there! I'm **Saumya Mathur**, a final-year B.Tech student in **Electronics and Communication Engineering** at IGDTUW 🎓. I'm passionate about using technology to build meaningful, real-world solutions—especially in the fields of **Artificial Intelligence** and **Machine Learning**.
 
 ---
 
@@ -41,5 +41,6 @@ I enjoy working on end-to-end solutions—from ideation and prototyping to devel
 ## 📫 Let’s Connect!
 
 Feel free to reach out if you'd like to collaborate, chat tech, or just say hi 👋
+
 [📧 Email](mailto:saumya046btece22@igdtuw.ac.in) | [💼 LinkedIn](https://www.linkedin.com/in/saumya-mathur-60351a270/) | [💻 GitHub](https://github.com/saumyaya)
 
